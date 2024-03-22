@@ -44,7 +44,7 @@ Some technologies and languages I enjoy working with include Flutter, Dart, C++ 
 <img height="50" src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png">        <img height="50" src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png?w=740&t=st=1654710945~exp=1654711545~hmac=04c53067ba47cb96d1c905ef671807e153468cf6ddf3bdc879e7267588aec896">     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
 <br>
 
-<a href="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=ahmedhany20200050&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=ahmedhany20200050&style=for-the-badge">
 </a>
 
