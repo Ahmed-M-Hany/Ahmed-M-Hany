@@ -17,7 +17,7 @@
 I'm a software developer. 
 Some technologies and languages I enjoy working with include Flutter, Dart, C++ for problem solving, and Java.
 
-- 🔭 I'm a student at Cairo University
+- 🔭 I'm a graduate from Cairo University
 
 - 💬 Ask me about **Flutter & Dart**
 
