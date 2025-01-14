@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ahmed 👋</h1>
 <p align="center">
-    <a href="[https://www.linkedin.com/in/%D8%A7%D8%AD%D9%85%D8%AF-%D9%87%D8%A7%D9%86%D9%8A-3a86351b8/](https://www.linkedin.com/in/ahmed-m-hany/)">
+    <a href="https://www.linkedin.com/in/ahmed-m-hany/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>   
   <a href="mailto:ahmedhany20200050@gmail.com">
